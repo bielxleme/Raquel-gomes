@@ -1,0 +1,47 @@
+Crie uma Landing Page de altíssimo padrão, elegante, acolhedora e com uma estética de "Studio de Estética & Micropigmentation de Luxo" para "Raquel Gomes Beauty and Makeup" (Raquel Gomes Micro), localizado em Borborema - SP.
+
+O design deve transmitir sofisticação, precisão artística, confiança e exclusividade (fundo off-white refinado ou tons nude/rosé champagne, detalhes sutis em dourado suave ou rosé gold, tipografia serifada clássica nos títulos combinada com fontes limpas, e animações de scroll suaves e imersivas). O site deve ser 100% responsivo (mobile-first).
+
+Informações oficiais que DEVEM constar na página:
+- Nome do Negócio: Raquel Gomes Beauty and Makeup / Raquel Gomes Micro
+- Especialidades: Micropigmentation (Sobrancelhas e Lábios), Maquiagem Profissional, Design e Estética Facial.
+- Endereço: Rua Antenor Munhineli, 105 - Alto do Ouro Verde 2, Borborema - SP, CEP 14955-000
+- E-mail de Contato: raquelsg10@gmail.com
+- WhatsApp para Agendamentos: (16) 99761-6096 (Botão fixo e de destaque formatado com wa.me/5516997616096 e mensagem direcionada para agendamento de horários e avaliações).
+- Redes Sociais: 
+  * Instagram: https://www.instagram.com/raquelgomesmicro/
+  * Facebook: https://www.facebook.com/raquelg.makeup/?locale=pt_BR
+
+A estrutura da página deve conter os seguintes blocos e componentes interativos avançados (inspirados em Aceternity UI, Magic UI, React Bits e padrões de design editorial):
+
+1. Cabeçalho (Header):
+   - Logo minimalista e sofisticado "Raquel Gomes Beauty & Makeup".
+   - Links rápidos de navegação: Início, Especialidades, Resultados (Antes/Depois), Sobre, Contato.
+   - Botão de destaque sutil: "Agendar Avaliação".
+
+2. Seção Principal (Hero Section):
+   - Título impactante com revelação de texto fluida (Text Reveal): "A arte de realçar a sua beleza natural com exclusividade e precisão."
+   - Subtítulo: "Especialista em micropigmentação avançada, maquiagem e design de alto padrão em Borborema - SP."
+   - Botões de Ação (CTA) com efeitos refinados de hover:
+     * Botão 1: "✨ Agendar Atendimento via WhatsApp"
+     * Botão 2: "💬 Conhecer Procedimentos"
+
+3. Seção de Especialidades & Procedimentos (Bento Grid Editorial / Cards Interativos):
+   - Cards com efeitos visuais sofisticados ao passar o mouse, destacando:
+     * Micropigmentação (Técnicas modernas para sobrancelhas e lábios com efeito natural).
+     * Maquiagem Profissional (Produções exclusivas para noivas, madrinhas e eventos).
+     * Design & Harmonização do Olhar (Cuidados detalhados que valorizam a simetria facial).
+
+4. Seção "Transformações / Galeria de Resultados" (Before / After Interativo):
+   - Espaço visual imersivo mostrando o antes e depois dos procedimentos realizados, gerando prova social imediata e confiança absoluta.
+
+5. Seção "A Profissional / Sobre a Raquel Gomes":
+   - Espaço dedicado à trajetória da Raquel, sua busca constante por excelência técnica, certificações e o cuidado humanizado com cada cliente no Alto do Ouro Verde.
+
+6. Seção de Contato, Endereço e Localização:
+   - Endereço completo: Rua Antenor Munhineli, 105 - Alto do Ouro Verde 2, Borborema - SP.
+   - E-mail institucional (raquelsg10@gmail.com).
+   - Botão direto para contato comercial via WhatsApp (16) 99761-6096.
+
+7. Rodapé Sofisticado:
+   - Links para redes sociais (@raquelgomesmicro), direitos reservados e assinatura de excelência digital.
